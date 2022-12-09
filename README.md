@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @sunflower-knight. Student from China.
 - 👀 I’m interested in Programming Language && Compiler && cpp 
 - 🌱 I’m currently learning LLVM & cpp
-- 📫 How to reach me: huangyj@foxmail.com
+- 📫 How to reach me: sunflower-knight@foxmail.com
