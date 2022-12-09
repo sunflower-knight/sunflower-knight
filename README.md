@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m @sunflower-knight. Student from China.
-👀 I’m interested in Programming Language && Compiler && cpp 
-🌱 I’m currently learning LLVM && cpp
-📫 How to reach me: huangyj@foxmail.com
+- 👋 Hi, I’m @sunflower-knight. Student from China.
+- 👀 I’m interested in Programming Language && Compiler && cpp 
+- 🌱 I’m currently learning LLVM && cpp
+- 📫 How to reach me: huangyj@foxmail.com
